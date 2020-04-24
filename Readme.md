@@ -10,3 +10,9 @@
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/whp98/miner/master/god.sh)
 ```
+
+### 新版的脚本
+
+```
+bash <(curl -s -L https://raw.githubusercontent.com/whp98/miner/master/new.sh)
+```
